@@ -29,3 +29,14 @@ run the following command:
 ```
 chainlit run chainlit.py -w
 ```
+对了，embedding模型文件自行下载，新建models文件夹，从huggingface下载[m3e-base](https://huggingface.co/moka-ai/m3e-base/tree/main),确保项目结构如下：
+
+```
+RAG_Practice
+├─ app
+├─ data
+├─ models
+│  └─ m3e-base
+├─ README.md
+└─ requirements.txt
+```
