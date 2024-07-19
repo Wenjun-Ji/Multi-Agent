@@ -1,0 +1,2 @@
+https://liaokong.gitbook.io/llm-kai-fa-jiao-cheng
+https://python.langchain.com/v0.2/docs/introduction/
